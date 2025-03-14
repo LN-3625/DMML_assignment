@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/3a2e53a36312465aaaaeec59b24521e4/artifacts
+end_time: 1741927279467
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 3a2e53a36312465aaaaeec59b24521e4
+run_name: wise-kite-773
+run_uuid: 3a2e53a36312465aaaaeec59b24521e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741927275866
+status: 3
+tags: []
+user_id: laksh

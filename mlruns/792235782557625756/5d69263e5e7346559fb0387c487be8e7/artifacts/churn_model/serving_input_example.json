@@ -1,0 +1,14 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "total_spend",
+      "tenure"
+    ],
+    "data": [
+      [
+        675.9997838686836,
+        37.0
+      ]
+    ]
+  }
+}

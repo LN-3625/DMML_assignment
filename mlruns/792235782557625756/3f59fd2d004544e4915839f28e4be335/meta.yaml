@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/3f59fd2d004544e4915839f28e4be335/artifacts
+end_time: 1741925912888
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 3f59fd2d004544e4915839f28e4be335
+run_name: resilient-mare-800
+run_uuid: 3f59fd2d004544e4915839f28e4be335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741925912871
+status: 4
+tags: []
+user_id: laksh

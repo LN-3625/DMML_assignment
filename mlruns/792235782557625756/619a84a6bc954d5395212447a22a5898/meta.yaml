@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/619a84a6bc954d5395212447a22a5898/artifacts
+end_time: 1741926634637
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 619a84a6bc954d5395212447a22a5898
+run_name: thundering-moth-458
+run_uuid: 619a84a6bc954d5395212447a22a5898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741926634596
+status: 4
+tags: []
+user_id: laksh

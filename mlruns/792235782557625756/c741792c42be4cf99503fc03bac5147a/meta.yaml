@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/c741792c42be4cf99503fc03bac5147a/artifacts
+end_time: 1741926616139
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: c741792c42be4cf99503fc03bac5147a
+run_name: popular-colt-460
+run_uuid: c741792c42be4cf99503fc03bac5147a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741926616077
+status: 4
+tags: []
+user_id: laksh

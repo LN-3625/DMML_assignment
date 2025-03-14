@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/164c29ba01314e668db48068e5aa4c9f/artifacts
+end_time: 1741926697751
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 164c29ba01314e668db48068e5aa4c9f
+run_name: defiant-sloth-15
+run_uuid: 164c29ba01314e668db48068e5aa4c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741926692657
+status: 3
+tags: []
+user_id: laksh

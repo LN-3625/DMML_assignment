@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/808b9860d99a4d0e8bc54d2ee0c9dccd/artifacts
+end_time: 1741927699595
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 808b9860d99a4d0e8bc54d2ee0c9dccd
+run_name: crawling-wolf-952
+run_uuid: 808b9860d99a4d0e8bc54d2ee0c9dccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741927696254
+status: 3
+tags: []
+user_id: laksh

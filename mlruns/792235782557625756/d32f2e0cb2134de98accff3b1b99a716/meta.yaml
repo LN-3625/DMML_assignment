@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/d32f2e0cb2134de98accff3b1b99a716/artifacts
+end_time: 1741926565333
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: d32f2e0cb2134de98accff3b1b99a716
+run_name: abrasive-squid-458
+run_uuid: d32f2e0cb2134de98accff3b1b99a716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741926565299
+status: 4
+tags: []
+user_id: laksh
