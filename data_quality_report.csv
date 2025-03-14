@@ -1,0 +1,5 @@
+,CustomerID,Age,Gender,Tenure,Usage Frequency,Support Calls,Payment Delay,Subscription Type,Contract Length,Total Spend,Last Interaction,Churn
+inconsistent_gender,{},{},{},{},{},{},{},{},{},{},{},{}
+invalid_age_range,{},{},{},{},{},{},{},{},{},{},{},{}
+duplicates,"{9: 9, 15: 14}","{9: 36, 15: 42}","{9: 'Male', 15: 'Male'}","{9: 20, 15: 46}","{9: 5, 15: 27}","{9: 10, 15: 5}","{9: '8', 15: '8'}","{9: 'Basic', 15: 'Premium'}","{9: 'Monthly', 15: 'Quarterly'}","{9: 687.0, 15: 438.0}","{9: 8, 15: 30}","{9: 0, 15: 0}"
+anomalies,{},{},{},{},{},{},{},{},{},{},{},{}

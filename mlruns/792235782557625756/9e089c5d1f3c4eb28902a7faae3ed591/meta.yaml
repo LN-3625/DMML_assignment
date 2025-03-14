@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laksh/Downloads/DMML_assignment/mlruns/792235782557625756/9e089c5d1f3c4eb28902a7faae3ed591/artifacts
+end_time: 1741969127371
+entry_point_name: ''
+experiment_id: '792235782557625756'
+lifecycle_stage: active
+run_id: 9e089c5d1f3c4eb28902a7faae3ed591
+run_name: delightful-toad-422
+run_uuid: 9e089c5d1f3c4eb28902a7faae3ed591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741969124040
+status: 3
+tags: []
+user_id: laksh
